@@ -8,7 +8,7 @@
 
 - 🎓 I'm Mohamed Amr, a Computer Engineering Fresh Graduate from [Suez Canal University](https://suez.edu.eg/ar/en/).
 - 🔎 Currently looking for <strong>Backend Engineering Position</strong>.
-- 💻 I have a background in both backend development and embedded software.
+- 💻 I have a background in both <strong>backend development</strong> and <strong>embedded software<strong>.
 - :trophy: 2x `ECPC` Finalist.
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
