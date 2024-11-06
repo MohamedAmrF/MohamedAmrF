@@ -105,9 +105,7 @@
   &emsp;
 </p>
 
-<br>
-
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
+#### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
 
 <p align="center">
   &emsp;
